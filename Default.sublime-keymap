@@ -1,0 +1,9 @@
+<!--
+Place your key bindings in here, this will ensure they don't get overwritten
+when installing new versions of Sublime Text
+-->
+<bindings>
+	<binding key="ctrl+alt+s" command="subversion status" />
+	<binding key="ctrl+alt+a" command="subversion add" />
+	<binding key="ctrl+alt+c" command="subversion commit" />
+</bindings>
