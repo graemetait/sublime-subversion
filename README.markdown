@@ -1,3 +1,6 @@
+Note: this plugin is for Sublime Text 1 for Windows. For a version for the cross-platform Sublime Text 2 see the following:
+https://github.com/dennishall/Sublime-Text-Subversion-plug-in
+
 Sublime Subversion
 ==================
 
